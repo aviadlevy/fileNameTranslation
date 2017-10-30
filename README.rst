@@ -1,8 +1,8 @@
 File Name Translation
 =====================
 
-Auto-
------------------------------
+Auto-Translate-File-Names
+-------------------------
 
 .. image:: http://img.shields.io/pypi/v/fileNameTranslation.svg
     :target: https://pypi.python.org/pypi/fileNameTranslation
@@ -31,14 +31,6 @@ Upgrade with `pip <http://www.pip-installer.org/>`_::
 
     $ pip install fileNameTranslation --upgrade
 
-Run
----
-
-Just run cmd (WinKey + R, then type *cmd* and Enter) then::
-
-    $ fileNameTranslation
-  
-
 Usage
 -----
 
@@ -54,6 +46,6 @@ TODO List:
 :Author:
     Aviad Levy
 
-:Version: 0.0.1
+:Version: 0.1
 
 :License: `LGPLv3 license <http://www.gnu.org/licenses/lgpl.html>`_
