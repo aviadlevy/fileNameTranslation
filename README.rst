@@ -14,7 +14,7 @@ Auto-
     :alt: LGPLv3 License
 
 
-This package will allow you to
+This package will allow you to translate the names of your files
 
 
 Install
