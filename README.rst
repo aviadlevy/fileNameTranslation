@@ -4,7 +4,7 @@ File Name Translation
 Auto-
 -----------------------------
 
-.. image:: http://img.shields.io/pypi/v/ktuvitDownloader.svg
+.. image:: http://img.shields.io/pypi/v/fileNameTranslation.svg
     :target: https://pypi.python.org/pypi/fileNameTranslation
     :alt: Latest Version
 

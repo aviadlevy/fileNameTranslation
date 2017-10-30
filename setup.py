@@ -26,7 +26,7 @@ setup(
                      "Operating System :: OS Independent",
                      "Intended Audience :: End Users/Desktop",
                      "Programming Language :: Python :: 2.7",
-                     "Topic :: Desktop Environment :: File Managersa",
+                     "Topic :: Desktop Environment :: File Managers",
                      ],
         author="Aviad Levy",
         author_email="aviadlevy1@gmail.com",
