@@ -31,8 +31,16 @@ Upgrade with `pip <http://www.pip-installer.org/>`_::
 
     $ pip install fileNameTranslation --upgrade
 
-Usage
------
+Basic Run
+---------
+
+Just run cmd (WinKey + R, then type *cmd* and Enter) then::
+
+    $ fileNameTranslation FILES_PATH -t TARGET_LANG
+
+
+Usage (Advanced options)
+------------------------
 
 Just run cmd (WinKey + R, then type *cmd* and Enter) then::
 
@@ -41,7 +49,10 @@ Just run cmd (WinKey + R, then type *cmd* and Enter) then::
 
 TODO List:
 ----------
--
+- Add copy option (and not rename)
+- Add log
+    - with names before and after
+    - with errors during process
 
 :Author:
     Aviad Levy

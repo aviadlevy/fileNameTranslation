@@ -15,7 +15,7 @@ def get_args():
     settings_opt.add_argument("FILES_LOCATION", type=str,
                               help="what dir to scan")
     settings_opt.add_argument("-e", "--extensions", dest="extensions", nargs='*', type=str,
-                              help="translate only this extensions")
+                              help="translate only file with this extensions")
     settings_opt.add_argument("-s", "--source", dest="source", type=str,
                               help="source language")
     settings_opt.add_argument("-t", "--target", dest="target", type=str, required=True,
